@@ -1,0 +1,11 @@
+@import url("fonts.css");
+.artecke-cookie-banner-container {
+  font-family: "Open Sans";
+  font-size: 18px;
+}
+.artecke-cookie-banner-container * {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}/*# sourceMappingURL=App.css.map */
